@@ -89,3 +89,7 @@ Nous souhaitons aussi afficher chaque réponse non optimales que l'algorithme gl
 ### A vos claviers !
 
 Améliorer votre programme en affichant chaque solution optimale trouvée que l'algorithme glouton ne permettait pas de calculer pour toutes les sommes entre 1 et un nombre choisis. A la fin du calcul, afficher le temps de calcul total, ainsi que le pourcentage de réponses correctes de l'algorithme glouton.
+
+## 3.4. Algorithme d'analyse du système
+
+Nous souhaitons maintenant créer un algorithme optimisé spécifique au système, mais s'adaptant automatiquement à n'importe quel système.
